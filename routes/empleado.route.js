@@ -1,3 +1,4 @@
+//se definen las rutas
 //defino controlador para el manejo de CRUD
 const empleadoCtrl = require('../../practicaWeb/controller/controllers');
 //creamos el manejador de rutas
